@@ -99,7 +99,7 @@
             <img src="img/banneraceites.png" alt="Banner Aceites" class="img-fluid">
         </div>
 
-        <h2 class="text-center mb-4">Aceites Originales</h2>
+        <h2 class="text-center mb-4">Aceites </h2>
 
         <!-- Filtros de marcas -->
         <div class="d-flex justify-content-center flex-wrap gap-3 mb-4">
